@@ -75,6 +75,8 @@ To get started with the assignment, you need to fork the assignment repository o
 4. Once the forking process is complete, you will be redirected to your forked repository.
 5. You can now clone the repository (**the one associated to your GitHub Account**) to your local machine and start working on the assignment.
 
+[![Video example of fork](http://img.youtube.com/vi/Cv10iflbR7w/0.jpg)](http://www.youtube.com/watch?v=Cv10iflbR7w "Video example of fork")
+
 ## The Assignment
 
 There's a pre-existing jupyter notebook file, you need to make a copy of it before starting.
@@ -118,3 +120,5 @@ A pull request is a way to submit your changes to the original repository. Once 
 6. Add a title with your firstname and lastname, and a description to your pull request with any concerns or questions you may have about the assignment.
 7. Click on the "Create pull request" button to submit your work.
 8. Wait for the pull request to be reviewed and merged by the assignment maintainer.
+
+[![Video example of Pull request](http://img.youtube.com/vi/Cv10iflbR7w/0.jpg)](http://www.youtube.com/watch?v=Cv10iflbR7w "Video example of Pull request")
